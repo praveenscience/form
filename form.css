@@ -293,3 +293,19 @@ i {
   margin-left: 16.1em;
   margin-top: -3.60em;
 }
+
+.d-inline-block {
+  display: inline-block;
+}
+
+.align-top {
+  vertical-align: top;
+}
+
+.radio input {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  height: auto;
+}
